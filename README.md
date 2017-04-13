@@ -2,7 +2,11 @@ The goal of this project, was to use deep neural networks and convolutional neur
 
 I trained, validated and tested a model using Keras. The model outputs a steering angle to an autonomous vehicle.
 
-I had to record my model controlling a simulation with mobile phone and upload it to youtube https://www.youtube.com/watch?v=fHYvu40IMTc
+I had to record my model controlling a simulation with mobile phone and upload it to youtube:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/fHYvu40IMTc/0.jpg)](http://www.youtube.com/watch?v=fHYvu40IMTc "My model controlling a car in simulation")
+
+
 The reason was every time I tried to record the screen using a tool running on my laptop, the load it induced made the python 
 script using the model too slow to successfully steer the car.
 
